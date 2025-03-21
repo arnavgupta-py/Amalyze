@@ -1,0 +1,15 @@
+streamlit==1.30.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+textblob==0.17.1
+vaderSentiment==3.3.2
+plotly==5.18.0
+wordcloud==1.9.2
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+selenium==4.15.2
+webdriver-manager==4.0.1
+xlsxwriter==3.1.2
